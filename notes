@@ -1,0 +1,20 @@
+1. Models
+ - Course
+ - Teacher
+ - Students
+ - Group
+ - Payment
+
+2. Serializers
+ - Admin - Super Admin
+ - Admin Teacher
+
+3. Views
+ - Authentication
+ - Token
+ - Search
+ - Action
+
+4. Urls
+
+5. Swagger
